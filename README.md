@@ -12,7 +12,9 @@ The interactive workflow in Alteryx allows healthcare providers to visualize pat
 
 # Key Tools Used:
 Alteryx: Used for data cleaning, transformation, and predictive modeling. Alteryx’s intuitive workflow designer allows automation of data preparation and modeling tasks, streamlining the process of forecasting hospital stays.
+
 Alteryx Predictive Tools: Utilized built-in machine learning models, such as Linear Regression and Boosted Model, to predict hospital stay durations.
+
 Dashboards & Reporting: The Alteryx workflow generates reports and data visualizations that can be easily interpreted by healthcare professionals to make informed decisions.
 
 # How to Use:
@@ -29,13 +31,18 @@ Reports and visualizations are generated, showing the impact of patient demograp
 
 # Key Features:
 Data Preparation: Cleaned, filtered, and standardized patient and hospital data using Alteryx’s data preparation tools to ensure the dataset was ready for analysis.
+
 Predictive Modeling: Applied machine learning models (Linear Regression, Boosted Models) to predict hospital stay durations based on patient and surgery data.
+
 Operational Efficiency: Predicting hospital stay durations enables NHS administrators to optimize bed occupancy, staffing, and resource allocation for better operational planning.
+
 Visual Reporting: Alteryx’s reporting tools were used to create dashboards for visualizing trends in hospital stay durations, helping healthcare providers make data-driven decisions.
 
 # Project Outcomes:
 Improved Resource Allocation: Predictive models helped optimize the allocation of hospital beds and medical staff by accurately forecasting patient stay durations.
+
 Enhanced Operational Planning: With better forecasts, NHS could plan better for bed occupancy, reducing overcrowding and improving patient care.
+
 Data-Driven Decision Making: Alteryx's visual tools allowed healthcare administrators to use data insights for informed decisions regarding resource planning and patient management.
 
 # How to Run:
@@ -47,9 +54,13 @@ View the Results: Access the output reports, visualizations, and predictions dir
 
 # Key Performance Indicators (KPIs):
 Prediction Accuracy: The model aims for an accuracy of 85-90% in predicting hospital stay durations based on patient demographics and surgery details.
+
 Improved Bed Occupancy: The NHS can achieve an estimated 20% improvement in bed occupancy planning by utilizing the model's predictions.
+
 Operational Efficiency: A 15% reduction in hospital resource misallocation through more accurate forecasts of patient stays.
+
 Cost Reduction: By optimizing resource use, the project targets a 10% reduction in hospital operational costs.
+
 Patient Care Optimization: Predictive insights help improve patient outcomes by enabling better planning of resources and minimizing delays in patient care.
 
 # Conclusion:
